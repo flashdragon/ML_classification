@@ -2,21 +2,21 @@
 
 # 모델1 (Dense)
 ## 모델 구조
-![Alt text](/denseModel)
+![Alt text](/denseModel.png)
 ## 모델 테스트
-![Alt text](/dense)
+![Alt text](/dense.png)
 
 # 모델2 (Conv)
 ## 모델 구조
-![Alt text](/convModel)
+![Alt text](/convModel.png)
 ## 모델 테스트
-![Alt text](/conv)
+![Alt text](/conv.png)
 
 # 모델3 (ResNet34)
 ## 모델 구조
-![Alt text](/resnet34Model)
+![Alt text](/resnet34Model.png)
 ## 모델 테스트
 ![Alt text](/res)
 
 # 모델 비교
-![Alt text](/modelCmp)
+![Alt text](/modelCmp.png)
