@@ -2,7 +2,7 @@
 
 # 모델1 (Dense)
 ## 모델 구조
-![Alt text](/denseModel.png)
+<img src="/denseModel.png" width="450px" height="300px"  ></img><br/>
 ## 모델 테스트
 ![Alt text](/dense.PNG)
 
