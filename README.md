@@ -1,1 +1,22 @@
-# ML_classification
+# 가위바위보 분류 모델 비교
+
+# 모델1 (Dense)
+## 모델 구조
+![Alt text](/denseModel)
+## 모델 테스트
+![Alt text](/dense)
+
+# 모델2 (Conv)
+## 모델 구조
+![Alt text](/convModel)
+## 모델 테스트
+![Alt text](/conv)
+
+# 모델3 (ResNet34)
+## 모델 구조
+![Alt text](/resnet34Model)
+## 모델 테스트
+![Alt text](/res)
+
+# 모델 비교
+![Alt text](/modelCmp)
