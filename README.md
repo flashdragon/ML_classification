@@ -2,21 +2,21 @@
 
 # 모델1 (Dense)
 ## 모델 구조
-<img src="/denseModel.png" width="450px" height="300px"  ></img><br/>
+![Alt text](/denseModel.png)
 ## 모델 테스트
-![Alt text](/dense.PNG)
+![Alt text](/dense.png)
 
 # 모델2 (Conv)
 ## 모델 구조
 ![Alt text](/convModel.png)
 ## 모델 테스트
-![Alt text](/conv.PNG)
+![Alt text](/conv.png)
 
 # 모델3 (ResNet34)
 ## 모델 구조
 ![Alt text](/resnet34Model.png)
 ## 모델 테스트
-![Alt text](/res.PNG)
+![Alt text](/res.png)
 
 # 모델 비교
 ![Alt text](/modelCmp.PNG)
